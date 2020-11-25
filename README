@@ -1,0 +1,1 @@
+Project for Deep Learning at clarkson university. Using Convolutional Neural Networks via Tensorflow and Keras to classify genres of music. Seeing how music is auditory, rather than using sound data, We decided to try a different approach and see if the NN could classify music genres based on spectrograms obtained by running fourier transforms to auditory data.
